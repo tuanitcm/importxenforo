@@ -1,0 +1,5 @@
+{
+  "name": "XenForo Resource Importer AI",
+  "description": "A professional tool to batch import CSV data into XenForo Resource Manager with Gemini AI-powered content enhancement.",
+  "requestFramePermissions": []
+}
