@@ -89,7 +89,7 @@ const StepConfig: React.FC<Props> = ({ config, onChange, onNext }) => {
                  <div>
                     <strong className="text-slate-900 block mb-1">Cách lấy thông tin:</strong>
                     <ul className="list-disc list-inside ml-2 space-y-1 text-slate-600">
-                        <li>Vào <code>Setup &gt; API Keys</code> -> Tạo key mới.</li>
+                        <li>Vào <code>Setup &gt; API Keys</code> &rarr; Tạo key mới.</li>
                         <li>Scopes: Chọn <code>resource:write</code> và <code>resource:read</code>.</li>
                         <li><strong>Category ID:</strong> Số ID của chuyên mục tài nguyên.</li>
                     </ul>
